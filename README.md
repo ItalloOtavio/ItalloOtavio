@@ -1,6 +1,6 @@
 # <img width="48" height="48" src="https://img.icons8.com/fluency/48/coder-in-hoodie.png" alt="coder-in-hoodie"/> Itallo Otavio
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Itallo Otavio, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCMG.
 
